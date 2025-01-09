@@ -1,0 +1,5 @@
+requests
+googlesearch-python==1.1.0  # For performing Google search queries
+python-dotenv==1.0.0  # Optional: For managing environment variables (if used)
+groq
+google-search-results
