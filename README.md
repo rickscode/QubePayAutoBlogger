@@ -41,6 +41,11 @@ This project automates the process of creating and posting blogs to a WordPress 
    source /path/to/virtual/environment/bin/activate
    ```
 
+3. Install Required packages
+    ```bash
+    pip install -r requirements.txt
+    ```
+
 3. Run the script:
    ```bash
    python blog_poster.py
