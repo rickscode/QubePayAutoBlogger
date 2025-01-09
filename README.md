@@ -4,9 +4,9 @@
 
 This project automates the process of creating and posting blogs to a WordPress site. The script uses:
 - **Python** for scripting.
-- **SerpAPI** for fetching relevant web content.
-- **Groq API with LLaMA** for generating blog titles and content.
-- **WordPress REST API** for publishing posts, including categories.
+- **SerpAPI** for fetching relevant web content.   https://serpapi.com/
+- **Groq API with LLaMA** for generating blog titles and content. https://groq.com/
+- **CloudFlar Workers API** for image generation. https://developers.cloudflare.com/workers-ai
 
 ---
 
