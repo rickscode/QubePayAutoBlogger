@@ -38,7 +38,7 @@ This project automates the process of creating and posting blogs to a WordPress 
 
 2. Activate your virtual environment:
    ```bash
-   source /path/to/virtual/environment/bin/activate
+   source venv/bin/activate
    ```
 
 3. Install Required packages
